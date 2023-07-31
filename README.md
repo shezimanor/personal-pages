@@ -1,3 +1,3 @@
 # Perosonal Pages
 
-force update!
+force update
