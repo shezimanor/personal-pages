@@ -1,14 +1,14 @@
-import { defineUserConfig } from "vuepress";
-import theme from "./theme.js";
+import { defineUserConfig } from 'vuepress';
+import theme from './theme.js';
 
 export default defineUserConfig({
-  base: "/",
+  base: '/personal-pages/',
 
-  lang: "en-US",
-  title: "Blog Demo",
-  description: "A blog demo for vuepress-theme-hope",
+  lang: 'en-US',
+  title: 'Blog Demo',
+  description: 'A blog demo for vuepress-theme-hope',
 
-  theme,
+  theme
 
   // Enable it with pwa
   // shouldPrefetch: false,
