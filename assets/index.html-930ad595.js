@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as n,a as e}from"./app-e515ab98.js";const _={},c=e("p",null,"現在這個網頁還沒有東西，所有頁面都還是套件內部的東西。",-1),s=e("p",null,"會再找時間慢慢更新。",-1),r=[c,s];function l(a,i){return o(),n("div",null,r)}const m=t(_,[["render",l],["__file","index.html.vue"]]);export{m as default};
