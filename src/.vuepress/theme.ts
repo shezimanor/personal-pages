@@ -46,7 +46,7 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
-
+    sitemap: false,
     // comment: {
     //   // You should generate and use your own comment service
     //   provider: 'Waline',
