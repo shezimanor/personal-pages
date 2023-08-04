@@ -1,8 +1,9 @@
 ---
-icon: circle-info
 cover: /assets/images/cover3.jpg
+article: false
+star: false
 ---
 
-# Intro Page
+# 陳萊恩簡介
 
-Place your introduction and profile here.
+嗨，我來自台北，一個 30 來歲的無聊男子。
